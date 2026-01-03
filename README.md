@@ -9,8 +9,6 @@
  Focused on solid fundamentals and secure programming
 </p>
 
----
-
 ## About me
 
 I am an Informatics Engineering student building strong programming foundations.  
@@ -21,15 +19,11 @@ I enjoy understanding how things work rather than just making them work.
 -  Improving my programming logic and code quality
 -  Open to learning and collaborating on beginner-friendly projects
 
----
-
 ## Technologies & Tools
 
 - **Languages:** Python, SQL  
 - **Concepts:** Object-Oriented Programming, Secure Programming  
 - **Tools:** Git, GitHub, VS Code  
-
----
 
 ## Current goals
 
@@ -37,8 +31,6 @@ I enjoy understanding how things work rather than just making them work.
 - Improve problem-solving skills  
 - Build small, well-structured projects  
 - Keep learning consistently alongside my studies  
-
----
 
 📍 Chile
 <img src="https://www.gifsanimados.org/data/media/748/bandera-de-chile-imagen-animada-0011.gif" width="30">
