@@ -2,6 +2,9 @@
 
 <h2 align="center">Peschke</h2>
 
+<p align="center">
+  <img src="https://link-del-gif.gif" width="300">
+</p>
 
 - Informatics Engineering student at INACAP (Chile)  
 - Currently learning Python, OOP and databases  
