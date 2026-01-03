@@ -1,10 +1,9 @@
-<h1 align="center">Hi, I'm Josué 👋</h1>
-
-<h2 align="center">Peschke</h2>
-
-<p align="center">
+<p>
+  <h1 align="center">Hi, I'm Josué 👋</h1>
   <img src="https://media.tenor.com/5Cs8PLPQQvsAAAAj/pet-leon.gif" width="100">
 </p>
+
+<h2 align="center">Peschke</h2>
 
 - Informatics Engineering student at INACAP (Chile)  
 - Currently learning Python, OOP and databases  
