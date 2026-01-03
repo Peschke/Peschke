@@ -33,5 +33,5 @@ I enjoy understanding how things work rather than just making them work.
 - Keep learning consistently alongside my studies  
 
 ## 📍 Chile
-<img src="https://www.gifsanimados.org/data/media/748/bandera-de-chile-imagen-animada-0011.gif" width="30">
+  <img src="https://www.gifsanimados.org/data/media/748/bandera-de-chile-imagen-animada-0011.gif" width="30">
 
