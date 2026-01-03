@@ -1,6 +1,6 @@
 <p>
-  <h1 align="center">Hi, I'm Josué 👋</h1>
-  <img src="https://media.tenor.com/5Cs8PLPQQvsAAAAj/pet-leon.gif" width="100">
+  <h1 align="center">Hi, I'm Josué </h1>
+  <img src="https://media.tenor.com/5Cs8PLPQQvsAAAAj/pet-leon.gif" width="30">
 </p>
 
 <h2 align="center">Peschke</h2>
