@@ -32,8 +32,8 @@ I enjoy understanding how things work rather than just making them work.
 - Build small, well-structured projects  
 - Keep learning consistently alongside my studies  
 
-  <h3 align="center">
+  <h4 align="center">
   📍 Chile
   <img src="https://www.gifsanimados.org/data/media/748/bandera-de-chile-imagen-animada-0011.gif" width="30">
-</h3>
+</h4>
 
