@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Josué 👋</h1>
-## 😄 Pronouns: Peschke
+
+# 😄 Pronouns: Peschke
 
 🎓 Informatics Engineering student at INACAP (Chile)  
 🐍 Currently learning Python, OOP and databases  
