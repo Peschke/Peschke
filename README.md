@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Josué 👋</h1>
 
-#  Peschke
+<h2 align="center">Peschke</h2>
 
 🎓 Informatics Engineering student at INACAP (Chile)  
 🐍 Currently learning Python, OOP and databases  
