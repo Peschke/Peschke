@@ -3,9 +3,9 @@
 <h2 align="center">Peschke</h2>
 
 
-🎓 Informatics Engineering student at INACAP (Chile)  
-🐍 Currently learning Python, OOP and databases  
-🔐 Focused on solid fundamentals and secure programming  
+- Informatics Engineering student at INACAP (Chile)  
+- Currently learning Python, OOP and databases  
+- Focused on solid fundamentals and secure programming  
 
 
 ### 🧠 About me
