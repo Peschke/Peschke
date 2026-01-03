@@ -4,9 +4,9 @@
 </h1>
 
 <p align="center">
-🎓 Informatics Engineering student at INACAP (Chile)<br>
-🐍 Currently learning Python, OOP and databases<br>
-🔐 Focused on solid fundamentals and secure programming
+ Informatics Engineering student at INACAP (Chile)<br>
+ Currently learning Python, OOP and databases<br>
+ Focused on solid fundamentals and secure programming
 </p>
 
 ---
