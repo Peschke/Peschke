@@ -23,7 +23,6 @@ I enjoy understanding how things work rather than just making them work.
 - **Concepts:** Object-Oriented Programming, Secure Programming  
 - **Tools:** Git, GitHub, VS Code  
 
----
 
 ## 🎯 Current goals
 
@@ -32,4 +31,4 @@ I enjoy understanding how things work rather than just making them work.
 - Build small, well-structured projects  
 - Keep learning consistently alongside my studies  
 
-##📍 Chile
+## 📍 Chile
