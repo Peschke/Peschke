@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 About me
+## About me
 
 I am an Informatics Engineering student building strong programming foundations.  
 I enjoy understanding how things work rather than just making them work.
@@ -23,7 +23,7 @@ I enjoy understanding how things work rather than just making them work.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - **Languages:** Python, SQL  
 - **Concepts:** Object-Oriented Programming, Secure Programming  
@@ -31,7 +31,7 @@ I enjoy understanding how things work rather than just making them work.
 
 ---
 
-## 🎯 Current goals
+## Current goals
 
 - Strengthen Python fundamentals  
 - Improve problem-solving skills  
@@ -41,4 +41,5 @@ I enjoy understanding how things work rather than just making them work.
 ---
 
 📍 Chile
+<img src="https://www.gifsanimados.org/data/media/748/bandera-de-chile-imagen-animada-0011.gif" width="30">
 
