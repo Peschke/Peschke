@@ -1,5 +1,5 @@
 # Hi, I'm Josué 👋
-😄 Pronouns: Peschke
+## 😄 Pronouns: Peschke
 
 🎓 Informatics Engineering student at INACAP (Chile)  
 🐍 Currently learning Python, OOP and databases  
