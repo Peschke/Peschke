@@ -16,10 +16,10 @@
 I am an Informatics Engineering student building strong programming foundations.  
 I enjoy understanding how things work rather than just making them work.
 
-- 💻 Interested in backend development and problem solving
-- 🗄️ Learning how to work with databases using SQL
-- 📚 Improving my programming logic and code quality
-- 🤝 Open to learning and collaborating on beginner-friendly projects
+-  Interested in backend development and problem solving
+-  Learning how to work with databases using SQL
+-  Improving my programming logic and code quality
+-  Open to learning and collaborating on beginner-friendly projects
 
 ---
 
