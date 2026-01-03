@@ -1,4 +1,4 @@
-## Hi, I'm Josué 👋
+# Hi, I'm Josué 👋
 😄 Pronouns: Peschke
 
 🎓 Informatics Engineering student at INACAP (Chile)  
