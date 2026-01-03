@@ -5,7 +5,6 @@
 🐍 Currently learning Python, OOP and databases  
 🔐 Focused on solid fundamentals and secure programming  
 
----
 
 ### 🧠 About me
 
@@ -17,9 +16,8 @@ I enjoy understanding how things work rather than just making them work.
 - 📚 Improving my programming logic and code quality
 - 🤝 Open to learning and collaborating on beginner-friendly projects
 
----
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 - **Languages:** Python, SQL  
 - **Concepts:** Object-Oriented Programming, Secure Programming  
@@ -27,13 +25,11 @@ I enjoy understanding how things work rather than just making them work.
 
 ---
 
-### 🎯 Current goals
+## 🎯 Current goals
 
 - Strengthen Python fundamentals  
 - Improve problem-solving skills  
 - Build small, well-structured projects  
 - Keep learning consistently alongside my studies  
 
----
-
-📍 Chile
+##📍 Chile
