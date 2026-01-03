@@ -1,18 +1,19 @@
-<p>
-  ## Hi, I'm Josué 
+<h1 align="center">
+  Hi, I'm Josué
   <img src="https://media.tenor.com/5Cs8PLPQQvsAAAAj/pet-leon.gif" width="30">
+</h1>
+
+<p align="center">
+🎓 Informatics Engineering student at INACAP (Chile)<br>
+🐍 Currently learning Python, OOP and databases<br>
+🔐 Focused on solid fundamentals and secure programming
 </p>
 
-<h2 align="center">Peschke</h2>
+---
 
-- Informatics Engineering student at INACAP (Chile)  
-- Currently learning Python, OOP and databases  
-- Focused on solid fundamentals and secure programming  
+## 🧠 About me
 
-
-### 🧠 About me
-
-I am a second-year Informatics Engineering student building strong programming foundations.  
+I am an Informatics Engineering student building strong programming foundations.  
 I enjoy understanding how things work rather than just making them work.
 
 - 💻 Interested in backend development and problem solving
@@ -20,6 +21,7 @@ I enjoy understanding how things work rather than just making them work.
 - 📚 Improving my programming logic and code quality
 - 🤝 Open to learning and collaborating on beginner-friendly projects
 
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -27,6 +29,7 @@ I enjoy understanding how things work rather than just making them work.
 - **Concepts:** Object-Oriented Programming, Secure Programming  
 - **Tools:** Git, GitHub, VS Code  
 
+---
 
 ## 🎯 Current goals
 
@@ -35,4 +38,7 @@ I enjoy understanding how things work rather than just making them work.
 - Build small, well-structured projects  
 - Keep learning consistently alongside my studies  
 
-## 📍 Chile
+---
+
+📍 Chile
+
