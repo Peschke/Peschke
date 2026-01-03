@@ -3,7 +3,7 @@
 <h2 align="center">Peschke</h2>
 
 <p align="center">
-  <img src="https://link-del-gif.gif" width="300">
+  <img src="https://media.tenor.com/5Cs8PLPQQvsAAAAj/pet-leon.gif" width="300">
 </p>
 
 - Informatics Engineering student at INACAP (Chile)  
